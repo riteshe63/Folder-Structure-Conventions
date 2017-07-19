@@ -1,0 +1,17 @@
+{
+  "name": "folder",
+  "description": "Folder Structure Conventions ============================",
+  "main": "index.js",
+  "authors": [
+    "riteshe63 <pradhanritesh6@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/riteshe63/Folder-Structure-Conventions",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
