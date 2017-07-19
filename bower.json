@@ -1,5 +1,6 @@
 {
   "name": "folder",
+"version": "1.0.0",
   "description": "Folder Structure Conventions ============================",
   "main": "index.js",
   "authors": [
